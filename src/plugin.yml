@@ -1,0 +1,6 @@
+name: Cash
+version: 1.0.0
+main: br.com.abidux.cash.Main
+author: abidux
+commands:
+  cash:
